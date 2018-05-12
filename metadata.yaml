@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5535
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Baker_(attorney)
 description: Augustan Reprint Society, publication number 25
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14467#The-Fine-Lady-s-Airs--1709-
 gutenberg_issued: '2004-12-25'
 gutenberg_type: Text
 identifiers:
